@@ -1,5 +1,5 @@
 from setuptools import setup, find_packages
-
+print("lol")
 setup(
     name = 'recurrent-whisperer',
     version = '1.5.0',
